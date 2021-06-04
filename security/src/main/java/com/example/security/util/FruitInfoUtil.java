@@ -12,6 +12,7 @@ import java.lang.reflect.Field;
 public class FruitInfoUtil {
     public static void getFruitInfo(Class<?> clazz){
 
+
         String strFruitName = " 水果名称: ";
         String strFruitColor = " 水果颜色: ";
         String strFruitProvider = " 供应商信息: ";
